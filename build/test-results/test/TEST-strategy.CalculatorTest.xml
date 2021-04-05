@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="strategy.CalculatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-04-05T07:26:48" hostname="mb-taehunlee.local" time="0.045">
+  <properties/>
+  <testcase name="마지막 손님의 할인은 80% 가격으로 적용된다." classname="strategy.CalculatorTest" time="0.045"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
